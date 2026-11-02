@@ -1,0 +1,33 @@
+# LangGraph orchestration
+langgraph
+langgraph-checkpoint-postgres
+
+# LangChain and LLM
+langchain
+langchain-openai
+openai
+
+# Configuration and validation
+pydantic
+pydantic-settings
+python-dotenv
+
+# API
+fastapi
+uvicorn[standard]
+
+# PostgreSQL
+sqlalchemy
+psycopg[binary,pool]
+pgvector
+
+# Redis
+redis
+
+# Observability
+langsmith
+
+# Testing
+pytest
+pytest-asyncio
+httpx
