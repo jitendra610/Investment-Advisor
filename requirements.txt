@@ -6,6 +6,8 @@ langgraph-checkpoint-postgres
 langchain
 langchain-openai
 openai
+pgvector
+langchain-postgres
 
 # Configuration and validation
 pydantic
@@ -31,3 +33,9 @@ langsmith
 pytest
 pytest-asyncio
 httpx
+
+#frontend
+streamlit
+requests
+
+PyYAML
